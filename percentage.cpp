@@ -1,6 +1,4 @@
-// Lab 3 percentage.cpp
-// This program will determine the percentage 
-// of answers a student got correct on a test.
+// This program will determine the percentage of answers a student got correct on a test.
 // Yasim Cruz
 
 #include <iostream> 
